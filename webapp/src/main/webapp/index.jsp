@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning deploy artifacts automatically in Docker </h1>
+   <h1> Thankyou, Happy Learning deploy artifacts automatically in Docker Container</h1>
 
   
 </form>
